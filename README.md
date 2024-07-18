@@ -1,4 +1,3 @@
-https://june960427.github.io/chicken/
 
 # chicken
 ![image](https://github.com/user-attachments/assets/a902acd0-6eea-4ede-a165-d14af7b05a94)
